@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "248341359839",
+    "project_id": "isdanger",
+    "storage_bucket": "isdanger.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248341359839:android:1524df99a9b00abedc4d6a",
+        "android_client_info": {
+          "package_name": "com.example.is_danger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "248341359839-u15togqfhmctvpdvniaee3ao29kuu5mj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXFJ3GKFQvpA6bir9noNieL0rCco3qkZ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "248341359839-u15togqfhmctvpdvniaee3ao29kuu5mj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
